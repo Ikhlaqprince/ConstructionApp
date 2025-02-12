@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "755651296944",
+    "project_id": "constructionapp-f5ff2",
+    "storage_bucket": "constructionapp-f5ff2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755651296944:android:e24c934e23f7ad9c1d4575",
+        "android_client_info": {
+          "package_name": "com.example.constructionapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1Y58WyBa89YurmsafO2mBXsWQFtmN0yA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
